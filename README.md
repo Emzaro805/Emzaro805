@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Emzaro805
+- 👋 Hi, I’m Emmanuel Zarate
 - 👀 I’m interested in Data Engineering and Data Science
 - 🌱 I’m currently learning Business Information Systems From Cal Poly - SLO
-- 💞️ I’m looking to collaborate on helping bridge the gap between business and AI 
+- 💞️ I’m looking to collaborate on bridging the gap between business and AI 
 - 📫 How to reach me on Linkedin at linkedin.com/in/emmanuel-zarate
 - ⚡ Fun fact: I like to play Soccer, Golf, and Paintball
 
