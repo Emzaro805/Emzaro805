@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Business Information Systems From Cal Poly - SLO
 - 💞️ I’m looking to collaborate on bridging the gap between business and AI 
 - 📫 How to reach me on Linkedin at linkedin.com/in/emmanuel-zarate
-- ⚡ Fun fact: I like to play Soccer, Golf, and Paintball
+- ⚡ Fun fact: I like to play Soccer, Golf, and Video Games
 
 <!---
 Emzaro805/Emzaro805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
