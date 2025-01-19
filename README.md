@@ -10,13 +10,16 @@ I have a strong foundation in data engineering, business intelligence, and stati
 
 ---
 
-## 🌟 Technical Skills
+## 🌟 Skills
 
 - **Languages:** Python (Pandas, Matplotlib, Sklearn), R (dplyr, ggplot2, rshiny), SQL (Window Functions, CTEs, Subqueries)
 - **Data Tools:** Power BI (Dashboarding, DAX, Power Query), NumPy, Excel (Ad-hoc Analysis, Macros, Pivots)
 - **Databases:** MySQL, SQL Server, Azure Data Lake
 - **Cloud Platforms:** Azure, AWS
+- **Orcestration:** Apache Airflow & dbt
+- **Big Data tools:** Spark, Hadoop, Flink
 - **Containerization:** Docker
+- **DataOps:**  Teraform & CloudWatch
 - **Statistical Analysis:** Linear regression, K-nearest neighbors, Real estate trend analysis
 
 ---
