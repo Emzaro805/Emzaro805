@@ -41,8 +41,9 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)  
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)  
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)  
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonaws&logoColor=white) 
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) 
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 
