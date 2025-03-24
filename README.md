@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Emmanuel Zarate
 
-🎯 A Cal Poly Business Information Systems student passionate about **Data Engineering**, **Business Intelligence**, and building systems that turn data into action.
+🎯 A Business Information Systems student passionate about **Data Engineering**, **Business Intelligence**, and building systems that turn data into action.
 
 ---
 
@@ -20,40 +20,35 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 
 ## 📫 Contact Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-zarate)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emzaro805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-zarate)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emzaro805@gmail.com)
 
 ---
 
 ## 🛠️ Skills Snapshot
 
 ### 🧠 Languages & Libraries  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) *( ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white),)*  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) *(dplyr, ![ggplot2](https://img.shields.io/badge/-ggplot2-DF3A98?logo=rstudio&logoColor=white), tidyr, caret)*  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-DF3A98?logo=rstudio&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 
 ### 📊 Data Analytics & Dashboarding  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) *(DAX, Power Query, Power Automate)*  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) *(PivotTables, Macros, Ad-hoc Analysis)*  
 ![Databricks](https://img.shields.io/badge/Databricks-E67200?logo=databricks&logoColor=white)
 
 ### 🗄️ Databases & Big Data  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)  
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 
 ### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 
 ---
