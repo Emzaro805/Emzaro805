@@ -26,6 +26,13 @@ I have a strong foundation in data engineering, business intelligence, and stati
 
 ## 🛠 Highlight Projects
 
+### 💼 **SBA Loan Default Risk Analysis**
+- Built predictive models using **Logistic Regression** and **K-Nearest Neighbors** in **R** to analyze small business loan risk.
+- Created insights from 25,000+ records using `ggplot2` visualizations and statistical modeling.
+- Identified high-risk patterns such as **LowDoc loans**, **longer loan terms**, and **new businesses** with up to **86% model accuracy**.
+- Delivered polished visualizations and executive insights to support data-driven loan decisions.
+
+
 ### 🚗 **Fleet Data Consolidation**
 - Integrated data from **FAMIS (CSV)**, **Planon (REST API)**, and **Fleetio (REST API)**.
 - Identified fleet vehicles that meet the criteria for retirement via SQL
