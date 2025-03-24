@@ -1,73 +1,85 @@
-# Welcome to My GitHub! 👋
+# 👋 Welcome! I'm Emmanuel Zarate
 
-Hi! I'm a **Business Information Systems student** passionate about **data engineering**, **business intelligence**, and crafting tech-driven solutions. Here's a snapshot of my skills and projects:
-
----
-
-## 🌟 About Me
-
-I have a strong foundation in data engineering, business intelligence, and statistical analysis. Proficient in Python, R, and SQL, I excel at building data pipelines, developing databases, and transforming data using tools like Databricks. My Power BI, Excel, and Docker expertise allows me to create dashboards, automate workflows, and manage data efficiently. With skills in linear regression and K-nearest neighbors, I uncover trends and drive decisions using real-world datasets. I thrive in collaborative environments and continuously seek opportunities to innovate and grow.
+🎯 A Business Information Systems student passionate about **Data Engineering**, **Business Intelligence**, and building systems that turn data into action.
 
 ---
 
-## 🌟 Skills
+## 🚀 About Me
 
-- **Languages:** Python (Pandas, Matplotlib, Sklearn), R (dplyr, ggplot2, rshiny), SQL (Window Functions, CTEs, Subqueries)
-- **Data Tools:** Power BI (Dashboarding, DAX, Power Query), NumPy, Excel (Ad-hoc Analysis, Macros, Pivots)
-- **Databases:** MySQL, SQL Server, Azure Data Lake
-- **Cloud Platforms:** Azure, AWS
-- **Orcestration:** Apache Airflow & dbt
-- **Big Data tools:** Spark, Hadoop, Flink
-- **Containerization:** Docker
-- **DataOps:**  Teraform & CloudWatch
-- **Statistical Analysis:** Linear regression, K-nearest neighbors, Real estate trend analysis
+My career, spanning **public works**, **environmental conservation**, **sales**, and **business intelligence**, has equipped me with a unique skill set that thrives on **complexity and innovation**.
 
----
+As a **Data Analyst at Cal Poly San Luis Obispo**, I gather and analyze data from systems like FMS to create **Power BI** dashboards for leadership, while also supporting Facilities with **software installs**, **inventory**, and **asset tagging**.
 
-## 🛠 Highlight Projects
+In public infrastructure, I contributed to **community enhancement** as an Engineering Technician, coordinating construction projects and deploying modern engineering systems. At **Vandenberg Space Force Base**, I worked as an Environmental Technician with **ManTech International**, leading **biological assessments**, **habitat restoration**, and project management for large-scale environmental initiatives.
 
-### 💼 **SBA Loan Default Risk Analysis**
-- Built predictive models using **Logistic Regression** and **K-Nearest Neighbors** in **R** to analyze small business loan risk.
-- Created insights from 25,000+ records using `ggplot2` visualizations and statistical modeling.
-- Identified high-risk patterns such as **LowDoc loans**, **longer loan terms**, and **new businesses** with up to **86% model accuracy**.
-- Delivered polished visualizations and executive insights to support data-driven loan decisions.
+Earlier in my career, I exceeded sales goals through client engagement and product expertise, sharpening my communication and relationship-building skills.
 
-
-### 🚗 **Fleet Data Consolidation**
-- Integrated data from **FAMIS (CSV)**, **Planon (REST API)**, and **Fleetio (REST API)**.
-- Identified fleet vehicles that meet the criteria for retirement via SQL
-- Built actionable insights using **REST APIs** and Excel.
-
-### 🗂 **Survivor Club MySQL Database**
-- Transformed legacy Excel files into a robust **MySQL** database.
-- Simplified querying and data management with SQL.
-
-### 📊 **Business Intelligence Dashboard**
-- Designed **Power BI reports** with **Facilities Management Information Systems** 
-- Automated processes, boosting efficiency for stakeholders.
-
-### 🏘 **Real Estate Risk Analysis Tool**
-- Developed a tool using **Python** and **R** to assess investment risks.
-- Applied **linear regression** and **trend analysis** to evaluate market volatility.
-- Created dashboards in **Power BI** to visualize potential risks and returns.
+By combining **data**, **engineering**, **environmental science**, and **sales**, I bring a well-rounded, people-driven perspective to **Data Analytics** and **Data Engineering** — focusing on infrastructure, transformation, visualization, and cross-team collaboration.
 
 ---
 
-## 🚀 Career Goals
+## 📫 Contact Me
 
-Aspiring **Data Engineer** focused on **AI-driven systems**, **ETL pipelines**, and **real-time telemetry**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-zarate)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emzaro805@gmail.com)
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Skills Snapshot
 
-- **Email:** emzaro805@gmail.com
-- **LinkedIn:** www.linkedin.com/in/emmanuel-zarate
+### 🧠 Languages & Libraries  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-DF3A98?logo=rstudio&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 
-Explore my work and let's collaborate! 😄
+### 📊 Data Analytics & Dashboarding  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E67200?logo=databricks&logoColor=white)
 
+### 🗄️ Databases & Big Data  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 
-<!---
-Emzaro805/Emzaro805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🔍 [SBA Loan Default Risk Analysis](https://github.com/Emzaro805/sba-loan-default-analysis)
+- Built classification models in **R** (Logistic Regression, KNN) to predict loan default risk.
+- Achieved **86% accuracy** using real-world SBA data with visual insights powered by `ggplot2`.
+- Identified key risk indicators like **LowDoc loans**, **loan term**, and **business type**.
+
+### 🚗 Fleet Data Consolidation
+- Integrated data from **Planon, FAMIS, and Fleetio** via REST APIs and Excel.
+- Identified underused or aging vehicles using SQL and built actionable insights.
+
+### 🗃️ Survivor Club MySQL Database
+- Migrated Excel data to a scalable **MySQL** database for easier analysis and reporting.
+
+### 🏘 Real Estate Risk Analysis
+- Modeled investment risk using **Python**, **R**, and **Power BI dashboards**.
+- Applied **regression analysis** to spot trends and help investors evaluate property risk.
+
+---
+
+## ⚡ Fun Fact
+
+```sql
+SELECT * FROM World WHERE "People" LIKE '%You%'
+
