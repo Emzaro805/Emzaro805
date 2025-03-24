@@ -20,8 +20,8 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/emmanuel-zarate)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)] (mailto:emzaro805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-zarate) https://www.linkedin.com/in/emmanuel-zarate
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:emzaro805@gmail.com) emzaro805@gmail.com
 
 ---
 
@@ -29,7 +29,7 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 
 ### 🧠 Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) *( ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white),)*  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) *(dplyr, ![ggplot2](https://img.shields.io/badge/-ggplot2-DF3A98?logo=rstudio&logoColor=white), tidyr, caret)*  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) *(dplyr, ggplot2, tidyr, caret)*  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ### 📊 Data Analytics & Dashboarding  
