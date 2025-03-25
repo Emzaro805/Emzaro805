@@ -59,20 +59,44 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 ## 📊 Featured Projects
 
 ### 🔍 [SBA Loan Default Risk Analysis](https://github.com/Emzaro805/sba-loan-default-analysis)
-- Built classification models in **R** (Logistic Regression, KNN) to predict loan default risk.
-- Achieved **86% accuracy** using real-world SBA data with visual insights powered by `ggplot2`.
-- Identified key risk indicators like **LowDoc loans**, **loan term**, and **business type**.
 
-### 🚗 Fleet Data Consolidation
-- Integrated data from **Planon, FAMIS, and Fleetio** via REST APIs and Excel.
-- Identified underused or aging vehicles using SQL and built actionable insights.
+**Goal:** Predict SBA loan default risk and identify key risk indicators using classification models.
 
-### 🗃️ Survivor Club MySQL Database
-- Migrated Excel data to a scalable **MySQL** database for easier analysis and reporting.
+**Overview:**
+- Developed classification models in **R**, including **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
+- Achieved **86% accuracy** using real-world SBA loan data.
+- Created visual insights with **ggplot2** to highlight trends and patterns.
+- Identified key risk drivers such as **LowDoc loan status**, **loan term length**, and **business type**.
 
-### 🏘 Real Estate Risk Analysis
-- Modeled investment risk using **Python**, **R**, and **Power BI dashboards**.
-- Applied **regression analysis** to spot trends and help investors evaluate property risk.
+### 🚛 Fleet Data Consolidation & Optimization
+
+**Goal:** Support a 25% fleet reduction initiative by identifying underused and aging vehicles.
+
+**Overview:**
+- Built **end-to-end ETL pipelines** to integrate data from **Planon**, **FAMIS**, and **Fleetio** using REST APIs and Excel.
+- Cleaned and transformed data using **Python** and **SQL**, enabling consistent cross-system analysis.
+- Automated weekly reporting to track vehicle usage and support decision-making.
+- Resulted in actionable insights that helped reduce the fleet size by **25%**.
+
+### 🗃️ Survivor Club MySQL Automation
+
+**Goal:** Modernize and automate data infrastructure for streamlined analysis and reporting.
+
+**Overview:**
+- Designed and deployed a **scalable MySQL database** to replace Excel-based member tracking.
+- Built **ETL scripts in Python** to ingest historical data and automate data entry workflows.
+- Enabled real-time queries and simplified reporting for non-technical users.
+- Improved data accuracy, usability, and scalability for future needs.
+
+### 🏘 Real Estate Risk & Investment Assessment Tool
+
+**Goal:** Provide investors with risk-aware housing forecasts across California.
+
+**Overview:**
+- Aggregated disaster risk data from **FEMA**, **Cal Fire**, and **USGS** (earthquake, flood, fire zones).
+- Merged this data with **historical housing market trends** during disaster events.
+- Applied **regression analysis** using **Python** and **R** to forecast housing price behavior by location and risk level.
+- Visualized insights through **Power BI dashboards**, empowering users to evaluate long-term investment risk.
 
 ---
 
