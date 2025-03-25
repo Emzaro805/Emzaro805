@@ -78,6 +78,5 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 
 ## ⚡ Fun Fact
 
-```sql
-SELECT * FROM World WHERE "People" LIKE '%You%'
+In my spare time, I enjoy weightlifting, golf, soccer, and video games.
 
