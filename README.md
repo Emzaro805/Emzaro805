@@ -28,7 +28,7 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 ## 🛠️ Skills Snapshot
 
 ### 🧠 Languages & Libraries  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) *( ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white),)*  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) *( ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white), ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=data&logoColor=white), ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white), ![Anthropic](https://img.shields.io/badge/Claude-ff9900?logo=anthropic&logoColor=white), ![dotenv](https://img.shields.io/badge/dotenv-555555?logo=python&logoColor=white), ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blueviolet) )*  
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) *(dplyr, ggplot2, tidyr, caret)*  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
@@ -41,18 +41,22 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
 ![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)  
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonaws&logoColor=white) 
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) 
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonaws&logoColor=white)  
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)  
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white)  
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud, DevOps & Tooling  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Virtualenv](https://img.shields.io/badge/virtualenv-003B57?logo=python&logoColor=white)
+
 
 ---
 
@@ -67,6 +71,21 @@ By combining **data**, **engineering**, **environmental science**, and **sales**
 - Achieved **86% accuracy** using real-world SBA loan data.
 - Created visual insights with **ggplot2** to highlight trends and patterns.
 - Identified key risk drivers such as **LowDoc loan status**, **loan term length**, and **business type**.
+
+### 🤖 [AI Health Coach Chatbot](https://github.com/Emzaro805/ai-health-coach)
+
+**Goal:** Generate personalized weekly meal plans and supplement recommendations using multiple LLMs for users with various fitness goals and dietary needs.
+
+**Overview:**
+- Built a dual-model AI chatbot using **LangChain**, integrating both **OpenAI GPT-4 Turbo** and **Anthropic Claude 3 Opus**.
+- Designed a custom scoring algorithm to evaluate and select the best response based on:
+  - ✅ **Nutritional Accuracy**
+  - ✅ **Personalization**
+  - ✅ **Supplement Integration**
+  - ✅ **Readability & Clarity**
+- Implemented **ConversationSummaryMemory** to retain user context and provide consistent recommendations across sessions.
+- Structured the code with a secure `.env` setup, clean project folder layout, and modular components for easy scaling.
+- Logged all conversations to a `chat_history.txt` file for future analysis, testing, and user feedback review.
 
 ### 🚛 Fleet Data Consolidation & Optimization
 
