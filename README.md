@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Emmanuel Zarate
 
-🎯 A Business Information Systems student from Cal Poly, San Luis Obispo, passionate about **Data Engineering**, **Data Analytics**, and building systems with **AI** technology.
+🎯 I am a data Analytics/Engineering consultant, passionate about **Data Engineering**, **Data Analytics**, and building systems with **AI** technology.
 
 ---
 
